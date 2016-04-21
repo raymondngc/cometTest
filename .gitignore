@@ -1,0 +1,5 @@
+# Dependency directory
+target
+.settings
+.project
+.classpath
